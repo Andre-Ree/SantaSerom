@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SantaSerom
 - 👀 I’m interested in productiveworkflows
 - 🌱 I’m currently learning to use github
-- 💞️ I’m looking to collaborate with yr mom
+- 💞️ I’m looking to collaborate with web and game developer
 - 📫 How to reach me: dm me
 -    pay me with Bitcoin
 <!---
